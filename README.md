@@ -1,7 +1,9 @@
 # Rust Device Drivers
-Developed for 2022-2023 Honours Project
-Developing Device Drivers in Rust
-University of the West of Scotland
+Developed for 2022-2023 Honours Project.
+
+"Developing Device Drivers in Rust"
+
+University of the West of Scotland.
 
 ***
 
